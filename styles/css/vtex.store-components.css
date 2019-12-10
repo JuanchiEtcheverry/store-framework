@@ -21,8 +21,8 @@
 
 .infoCardContainer--black {
     border-image-width: 1260px;
-    border-image-slice: 0px;
-    border-image: 0px;
+    border: transparent;
+    padding: 0px;
     hover background-color: #ffffff;
 }
 
