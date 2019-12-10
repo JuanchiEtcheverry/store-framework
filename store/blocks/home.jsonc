@@ -2,7 +2,7 @@
   "store.home": {
     "blocks": [
       "rich-text",
-      "info-card#button-right"
+      "info-card#button-right",
       "info-card#button-left"
     ]
   },
@@ -14,8 +14,6 @@
   },
   "info-card#button-right"
     },
-    ...
-    "info-card#button-right": {
       "props": {
         "isFullModeStyle": false,
         "textPosition": "right",
@@ -26,9 +24,6 @@
         "callToActionText": "Explore",
         "callToActionUrl": "/sale/d",
         "textAlignment": "center"
-  }
-},
-"info-card#button-left"
   },
   ...
   "info-card#button-left": {
