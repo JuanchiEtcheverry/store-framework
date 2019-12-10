@@ -23,7 +23,9 @@
     border-image-width: 1260px;
     border: transparent;
     padding: 0px;
-    hover background-color: #ffffff;
+    :hover {
+        background-color: #ffffff;
+    }
 }
 
 .infoCardContainer--vintage {
